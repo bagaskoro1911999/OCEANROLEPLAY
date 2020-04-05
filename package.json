@@ -1,0 +1,14 @@
+{
+  "name": "oceanrpbot",
+  "version": "1.0.0",
+  "description": "server bot!",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MrSlimeDudMan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  }
+}
